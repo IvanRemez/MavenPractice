@@ -1,3 +1,4 @@
+import java.math.BigDecimal;
 import java.util.HashSet;
 import java.util.Set;
 
@@ -11,5 +12,13 @@ public class Test extends MyClass{
             result.add(ch[i]);
         }
         return result;
+    }
+    public void method1(int n){
+
+    }
+
+    @Override
+    public void method1() {
+        super.method1();
     }
 }
