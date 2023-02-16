@@ -21,4 +21,11 @@ public class Test {
             x = xx;
         }
     }
+
+    public void method(int n){
+
+    }
+    public void method(String str){
+
+    }
 }
